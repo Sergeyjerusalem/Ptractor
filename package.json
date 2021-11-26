@@ -1,0 +1,16 @@
+{
+  "name": "lessont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor src/configuration/conf.js",
+    "update": "webdriver-manager update",
+    "start": "webdriver-manager start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
